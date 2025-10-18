@@ -1,6 +1,3 @@
-Here’s a clean, publication-ready README.md you can copy and paste directly into your repository.
-
-```markdown
 # go_auth
 
 A minimal, secure authentication service in Go that issues and verifies tokens using an RSA key pair. Sample keys are included strictly for development; generate and secure your own keys for production use.
